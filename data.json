@@ -1,0 +1,74 @@
+[
+  {
+    "mon": "Giáo dục môi trường đại cương",
+    "nhom": "Nhóm 5",
+    "phong": "F102",
+    "tiet": "1-3",
+    "gio": "7:00-9:40",
+    "thu": 1,
+    "ca": 1
+  },
+  {
+    "mon": "Kiến trúc nhà công cộng",
+    "nhom": "Nhóm 2",
+    "phong": "H210",
+    "tiet": "1-3",
+    "gio": "7:00-9:40",
+    "thu": 2,
+    "ca": 1
+  },
+  {
+    "mon": "Đồ án kiến trúc nhà ở quy mô nhỏ",
+    "nhom": "Nhóm 3",
+    "phong": "E203 (3)_ĐAKT",
+    "tiet": "1-4",
+    "gio": "7:00-10:40",
+    "thu": 3,
+    "ca": 1
+  },
+  {
+    "mon": "Lịch sử Đảng cộng sản Việt Nam",
+    "nhom": "Nhóm 6",
+    "phong": "F302",
+    "tiet": "11-13",
+    "gio": "18:00-20:40",
+    "thu": 3,
+    "ca": 2
+  },
+  {
+    "mon": "Cơ học kết cấu",
+    "nhom": "Nhóm 2",
+    "phong": "B302",
+    "tiet": "1-3",
+    "gio": "7:00-9:40",
+    "thu": 5,
+    "ca": 1
+  },
+  {
+    "mon": "Mỹ thuật 4",
+    "nhom": "Nhóm 2",
+    "phong": "Phòng vẽ mỹ thuật M1.02-1",
+    "tiet": "7-9",
+    "gio": "13:55-16:40",
+    "thu": 5,
+    "ca": 2
+  },
+  {
+    "mon": "Tin học ứng dụng",
+    "nhom": "Nhóm 2",
+    "phong": "E401 - Lab",
+    "tiet": "11-13",
+    "gio": "18:00-20:40",
+    "thu": 5,
+    "ca": 3
+  },
+  {
+    "mon": "Cơ học kết cấu",
+    "nhom": "Nhóm 2",
+    "phong": "B302",
+    "tiet": "11-13",
+    "gio": "18:00-20:40",
+    "thu": 6,
+    "ca": 1
+  }
+]
