@@ -32,6 +32,7 @@ fetch("data.json")
     const now = getVNTime();
     let thu = now.getDay();
     if (thu === 0) thu = 7;
+    else thu += 1;
 
     document.getElementById("today").innerText = `Hôm nay • Thứ ${thu}`;
 
@@ -93,3 +94,4 @@ function getNextSlot(slots) {
 
   return future[0];
 }
+
